@@ -2,7 +2,7 @@
 <h1 align="center">Olá 👋, me chamo Jessica Hemily</h1>
 <h3 align="center">Sou apaixonada por análise e ciência de dados!</h3>
 
-- Atualmente, estou trabalhando com análise de dados **Evolução por década, de 1896 até 2022, da participação de mulheres e minorias em esportes olímpicos ocupados majoritariamente por homens**
+- Atualmente, estou trabalhando com análise de dados objetivando o entendimento da **Evolução por década, de 1896 até 2022, da participação de mulheres e minorias em esportes olímpicos ocupados majoritariamente por homens**
 
 - 💞️ Espanhol fluente e inglês avançado
 
