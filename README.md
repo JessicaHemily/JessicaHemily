@@ -4,6 +4,8 @@
 
 - Atualmente, estou trabalhando com análise de dados **Evolução por década, de 1896 até 2022, da participação de mulheres e minorias em esportes olímpicos ocupados majoritariamente por homens**
 
+- 💞️ Espanhol fluente e inglês avançado
+
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
 
 - 💬 Me pergunte sobre **VBA, Excel, Power BI e SQL**
