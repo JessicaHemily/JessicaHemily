@@ -8,9 +8,12 @@
 
 - 👀 Cursando Data Science pela Coderhouse
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
+- 🌱 Atualmente estou aprendendo **Python, SQL Avançado e Power BI**
 
 - 💬 Me pergunte sobre **VBA, Excel, Power BI e SQL**
+
+- 🎓 Graduada em Engenharia de Alimentos pela UEM
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
