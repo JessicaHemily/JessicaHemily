@@ -12,7 +12,7 @@
 
 - 💬 Me pergunte sobre **VBA, Excel, Power BI e SQL**
 
-- 🎓 Graduada em Engenharia de Alimentos pela UEM
+- 🎓 Graduação em Engenharia de Alimentos pela UEM
 
 
 <h3 align="left">Connect with me:</h3>
