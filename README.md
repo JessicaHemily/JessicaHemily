@@ -2,17 +2,22 @@
 <h1 align="center">Olá 👋, me chamo Jessica Hemily</h1>
 <h3 align="center">Sou apaixonada por dados!</h3>
 
-- Atualmente, estou trabalhando em um projeto de análise de dados objetivando o entendimento da **Evolução por década, de 1896 até 2022, da participação de mulheres e minorias em esportes olímpicos ocupados majoritariamente por homens**
+ 🖥️ Estagiária em análise de dados no setor imobiliário
 
-- 💞️ Espanhol fluente e inglês avançado
+ 💞️ Espanhol fluente e inglês avançado
 
-- 👀 Cursando Data Science pela Coderhouse
+ 🌱 Atualmente estou aprendendo **Python, SQL Avançado e Power BI**
 
-- 🌱 Atualmente estou aprendendo **Python, SQL Avançado e Power BI**
+ 💬 Me pergunte sobre **VBA, Excel, Power BI e SQL**
 
-- 💬 Me pergunte sobre **VBA, Excel, Power BI e SQL**
+ 🎓 Graduação em Engenharia de Alimentos pela UEM
 
-- 🎓 Graduação em Engenharia de Alimentos pela UEM
+ 👀 Em meu tempo livre gosto de: ouvir música, assistir filmes e anime, sair com amigos (de preferencia para comer) e relaxar em meu sofá.
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
