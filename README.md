@@ -12,7 +12,7 @@
 
  🎓 Graduação em Engenharia de Alimentos pela UEM
 
- 👀 Em meu tempo livre gosto de: ouvir música, assistir filmes e anime, sair com amigos (de preferencia para comer) e relaxar em meu sofá.
+ 😄 Em meu tempo livre gosto de: ouvir música, assistir filmes e anime, sair com amigos (de preferencia para comer) e relaxar em meu sofá.
 
 
 
@@ -39,6 +39,14 @@
 
 
 <!---
+👀
+👯
+🧠
+🎯
+📚
+💙
+🛠️
+🚀
 
 - 👋 Hi, I’m @JessicaHemily
 - 👀 I’m interested in ...
