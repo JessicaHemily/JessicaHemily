@@ -2,15 +2,15 @@
 <h1 align="center">Olá 👋, me chamo Jessica Hemily</h1>
 <h3 align="center">Sou apaixonada por dados!</h3>
 
- 🖥️ Estagiária em análise de dados no setor imobiliário
+ 🖥️ Estudante de Estatística
 
  💞️ Espanhol fluente e inglês avançado
 
- 🌱 Atualmente estou aprendendo **Python, SQL Avançado e Power BI**
+ 🌱 Atualmente estou aprendendo **Python, R, SQL e Power BI**
 
- 💬 Me pergunte sobre **VBA, Excel, Power BI e SQL**
+ 💬 Me pergunte sobre **VBA, Excel, Python, Power BI e SQL**
 
- 🎓 Graduação em Engenharia de Alimentos pela UEM
+ 🎓 Graduação em Engenharia de Alimentos pela UEM (04/2023)
 
  😄 Em meu tempo livre gosto de: ouvir música, assistir filmes e anime, sair com amigos (de preferencia para comer) e relaxar em meu sofá.
 
