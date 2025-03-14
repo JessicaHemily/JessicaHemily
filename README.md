@@ -1,6 +1,5 @@
 
 <h1 align="center">Olá 👋, me chamo Jessica Hemily</h1>
-<h3 align="center">Sou apaixonada por dados!</h3>
 
  🖥️ Estudante de Mestrado em Bioestatística (UEM)
 
